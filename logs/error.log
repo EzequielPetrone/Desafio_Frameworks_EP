@@ -1,0 +1,9 @@
+{"level":"error","message":"Pasaron cosas al guardar nuevo objeto en la colección productosNew..."}
+{"level":"error","message":"Pasaron cosas al guardar nuevo objeto en la colección productosNew..."}
+{"level":"error","message":"Error al editar objeto con id lala de la colección productosNew..."}
+{"level":"error","message":"Error al eliminar objeto con id lala de la colección productosNew..."}
+{"level":"error","message":"Error al obtener objeto con id lala de la colección productosNew..."}
+{"level":"error","message":"No existe objeto con id: 4"}
+{"level":"error","message":"Error al obtener objeto con id 6 de la colección productosNew..."}
+{"level":"error","message":"Error al editar objeto con id 1 de la colección productosNew..."}
+{"level":"error","message":"Error al eliminar objeto con id 1 de la colección productosNew..."}

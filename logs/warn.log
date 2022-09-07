@@ -1,0 +1,14 @@
+{"level":"warn","message":"Fail Request GET a la ruta: /api/productos2 (No implementada)"}
+{"level":"warn","message":"Fail Request GET a la ruta: / (No implementada)"}
+{"level":"warn","message":"Fail Request GET a la ruta: /lalal (No implementada)"}
+{"level":"warn","message":"Fail Request GET a la ruta: /lalal (No implementada)"}
+{"level":"warn","message":"Fail Request GET a la ruta: /lalal (No implementada)"}
+{"level":"warn","message":"Fail Request GET a la ruta: /u (No implementada)"}
+{"level":"warn","message":"Fail Request GET a la ruta: /api/ (No implementada)"}
+{"level":"warn","message":"Fail Request GET a la ruta: /y (No implementada)"}
+{"level":"error","message":"Error al obtener objeto con id 6 de la colección productosNew..."}
+{"level":"warn","message":"Fail Request POST a la ruta: /api/productos/7 (No implementada)"}
+{"level":"error","message":"Error al editar objeto con id 1 de la colección productosNew..."}
+{"level":"warn","message":"Fail Request PUT a la ruta: /api/productos/ (No implementada)"}
+{"level":"error","message":"Error al eliminar objeto con id 1 de la colección productosNew..."}
+{"level":"warn","message":"Fail Request DELETE a la ruta: /api/productos/ (No implementada)"}

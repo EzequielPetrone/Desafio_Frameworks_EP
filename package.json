@@ -1,0 +1,24 @@
+{
+  "name": "desafio_frameworks_ep",
+  "version": "1.0.0",
+  "description": "migrando a KOA",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Ezequiel Petrone",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "koa": "^2.13.4",
+    "koa-body": "^5.0.0",
+    "koa-helmet": "^6.1.0",
+    "koa-router": "^12.0.0",
+    "mongoose": "^6.5.4",
+    "winston": "^3.8.1",
+    "yargs": "^17.5.1"
+  }
+}
